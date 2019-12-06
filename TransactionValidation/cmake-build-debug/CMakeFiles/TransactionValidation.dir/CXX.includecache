@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vitormouzinho/CLionProjects/TransactionValidation/Sender.cpp
+Sender.h
+/Users/vitormouzinho/CLionProjects/TransactionValidation/Sender.h
+
+/Users/vitormouzinho/CLionProjects/TransactionValidation/Sender.h
+iostream
+-
+vector
+-
+limits
+-
+algorithm
+-
+
+/Users/vitormouzinho/CLionProjects/TransactionValidation/main.cpp
+iostream
+-
+vector
+-
+limits
+-
+algorithm
+-
+Sender.h
+/Users/vitormouzinho/CLionProjects/TransactionValidation/Sender.h
+
